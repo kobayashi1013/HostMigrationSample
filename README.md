@@ -5,4 +5,4 @@ Assets/Scenes/Joinシーンを再生してJoinボタンを押せば，セッシ�
 1. RunnerにObserverをアタッチする
 2. 復元したいNetworkObjectにResumeObjectをアタッチする
 ## Download
-[![Download](https://img.shields.io/badge/Download-UnityPackage-blue?style=flat&logo=unity)](https://github.com/ユーザー名/リポジトリ名/releases/latest/download/ファイル名.unitypackage)
+[![Download](https://img.shields.io/badge/Download-UnityPackage-blue?style=flat&logo=unity)](https://github.com/kobayashi1013/HostMigrationSample/releases/latest/download/HostMigration.unitypackage)
